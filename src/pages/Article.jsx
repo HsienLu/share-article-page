@@ -7,7 +7,9 @@ import Navbar from "../components/Navbar";
 const Article = () => {
   const {slug} = useParams();
   // 假設 slug 就是檔案名稱（不含副檔名），若遇到特殊字元，建議 encodeURIComponent 處理 URL
-  const filePath = `/articles/${encodeURIComponent(slug)}.md`;
+  const filePath = `/share-article-page/articles/${encodeURIComponent(
+    slug
+  )}.md`;
 
   return (
     <>

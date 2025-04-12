@@ -5,7 +5,7 @@ import ArticleCard from "../components/ArticleCard";
 const articles = [
   {
     id: 1,
-    slug: "有關興趣和side project的聯想_week1", // 與檔名（不含副檔名）相同
+    slug: "week1", // 與檔名（不含副檔名）相同
     title: "有關興趣和 side project 的聯想 (Week 1)",
     date: "2025-04-12",
     excerpt:

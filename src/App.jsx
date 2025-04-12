@@ -1,19 +1,21 @@
+// src/App.jsx
 import React from "react";
-import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
+import {HashRouter, Routes, Route} from "react-router-dom";
 import Home from "./pages/Home";
 import Article from "./pages/Article";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <Router>
-      <div className="min-h-screen bg-ghibli-beige">
+    // 使用 HashRouter 而非 BrowserRouter
+    <HashRouter>
+      <div className="min-h-screen bg-gray-50">
         <Routes>
           <Route path="/" element={<Home />} />
-          {/* 使用 URL 參數（例如 slug）以讀取特定文章 */}
           <Route path="/article/:slug" element={<Article />} />
         </Routes>
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
