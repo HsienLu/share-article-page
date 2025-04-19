@@ -114,8 +114,13 @@ body {
 /* 無序列表、 有序列表 */
 .markdown-content ul,
 .markdown-content ol {
+  list-style: decimal;
   margin: 1rem 0 1.5rem 2rem;
   padding-left: 1rem;
+  font-size: 1.25rem; /* 與 <p> 相同的字體大小 */
+  line-height: 1.8; /* 與 <p> 相同的行高 */
+  margin-bottom: 1.5rem; /* 與 <p> 相同的下方間距 */
+  color: #444; /* 與 <p> 相同的文字顏色 */
 }
 .markdown-content li {
   margin-bottom: 0.5rem;
