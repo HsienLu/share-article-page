@@ -1,4 +1,4 @@
-# 有關興趣和 side project 的聯想*week1*有關興趣這件事情
+# 有關興趣和 side project 的聯想*week1*有關興趣這件事
 
 ## 興趣是什麼?
 
