@@ -14,8 +14,15 @@ const articles = [
     id: 2,
     slug: "week2", // 與檔名（不含副檔名）相同
     title: "有關興趣和 side project 的聯想 (Week 2)",
-    date: "2025-04-12",
+    date: "2025-04-20",
     excerpt: "有關 side project 這件事",
+  },
+  {
+    id: 3,
+    slug: "week3", // 與檔名（不含副檔名）相同
+    title: "有關興趣和 side project 的聯想 (Week 3)",
+    date: "2025-04-27",
+    excerpt: "有關聯想這件事",
   },
 ];
 
