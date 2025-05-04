@@ -1,4 +1,4 @@
-# 有關興趣和 side project 的聯想*week3*有關聯想這件事
+# 有關興趣和 side project 的聯想*week4*有關聯想這件事
 
 接著上週提到的一但開始決定要寫程式，那問題就來了，
 尤其是前端，生態系之豐富都會讓人有選擇障礙，
@@ -42,10 +42,10 @@
 [加上邊框的 repo](https://github.com/HsienLu/photo-border-text-prototype-)
 
 _加上之前_
-![alt text](image-4.png)
+![alt text](/share-article-page/articles/image-4.jpg)
 
-_加上之前_
-![alt text](image-5.png)
+_加上之後_
+![alt text](/share-article-page/articles/image-5.jpg)
 
 雖然不好用，但是至少有個底而且也證實想法是可行的，那就可以進一步去做擴展了。
 
@@ -63,6 +63,6 @@ _加上之前_
 
 總而言之，打出這一系列文，我其實只想表達一個概念
 
-> 完整 side project 通常不太會是"想"出來的，而是藉由一次又一次的實作"做"出來的，
+> 完整 side project 通常不太會是"想"出來的，而是藉由一次又一次的實作"做"出來的。
 
 雖然通常用未來展望這個標題，通常代表著可能沒有下一次了 XD
